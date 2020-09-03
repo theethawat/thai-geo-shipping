@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Thailand Geography Postcode Find, Region Find and Remote Area Finding",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theethawat/thai-geo-shipping"
+  },
+  "homepage": "https://github.com/theethawat/thai-geo-shipping/blob/master/Readme.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +18,7 @@
     "area",
     "region"
   ],
-  "author": "IARC-PSU",
+  "author": "iarc-psu",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
